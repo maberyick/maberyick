@@ -7,5 +7,5 @@
 - :computer: ML/AI Scientist [@GeorgiaTech](https://bme.gatech.edu/bme/), in Atlanta, Georgia
 - :hammer_and_wrench: I build models with: `Python` `R` `AWS` `Spyder` `Zsh/Bash` `Apache Spark` ...
 - :writing_hand: Write technical blogs on (Coming Soon!) [Medium](https://medium.com/@cris.rbarreram)
-- ⚡ I enjoy: reading, learning about AI, spending time with family, and music :)
-- :mortar_board: PhD's in Biomedical Engineering (Candidate)
+- ⚡ I enjoy: reading sci-fi, learning about AI, spending time with family, and music :)
+- :mortar_board: PhD Candidate in Biomedical Engineering
