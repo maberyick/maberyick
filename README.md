@@ -11,7 +11,8 @@
 - 🧠 AI / ML scientist in **medical imaging** across digital pathology and ophthalmology  
 - 🧬 I build ML/DL pipelines for histology, retinal imaging, immune profiling, and spatial biomarkers [web:35][web:36]  
 - 🧪 Working at the intersection of engineering and medicine at Georgia Tech & Emory (BME)  
-- 🛠️ Daily tools: `Python` `R` `PyTorch` `JAX` `AWS` `Spark` `Zsh/Bash`  
+- 🛠️ Daily tools: `Python` `R` `MLflow` `Databricks` `Azure DevOps` `git`  
+- ⌨️ Editors I live in: `Neovim` `VS Code` `Cursor`  
 - 📦 Projects include: **phenopyCell**, **HistoTIL**, and imaging workflows for large‑scale slide and retinal data [web:39][web:46]  
 - 🎓 PhD in Biomedical Engineering (computational imaging / AI)  
 - ✍️ I write technical notes and mini‑blogs in Markdown on [crisbarreram.com/blog](https://crisbarreram.com/blog) [web:72][web:74]  
